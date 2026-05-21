@@ -1,0 +1,1 @@
+import{a as t}from"./index-f6bf1d8e.js";import"./react-83cc25d9.js";function o(){return t("h2",{className:"mb-4 text-lg font-bold text-black dark:text-white",children:"Available Software Components On This Page"})}export{o as A};

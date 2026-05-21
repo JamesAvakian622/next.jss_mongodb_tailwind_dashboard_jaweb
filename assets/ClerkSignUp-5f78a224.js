@@ -1,0 +1,1 @@
+import{a as r}from"./index-f6bf1d8e.js";import"./react-83cc25d9.js";import{f as i}from"./clerk-e656e4fe.js";import"./convex-75d09dd9.js";function s(){return r("div",{className:"flex min-h-screen items-center justify-center bg-gray-2 p-4 dark:bg-boxdark-2",children:r(i,{routing:"path",path:"/auth/clerk/sign-up",signInUrl:"/auth/clerk/sign-in"})})}export{s as default};
